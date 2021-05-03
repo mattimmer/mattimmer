@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattimmer
+- 👋 Hi, I’m @mattimmer, my name is Matthew Timmermann
 - 👀 I’m interested in data science and software engineering positions
 - 📫 How to reach me ; Phone : 630.418.3777 ; Email : mrtimmermann@outlook.com
 
